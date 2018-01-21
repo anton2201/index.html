@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<!-- ifrem это видео -->
+<html lang="ru">
+    <heaad>
+        <meta charset="utf-8"/>
+        <title> Сайт класса 1"Г"</title>
+    </heaad>
+    <body>
+        <b>Адрес школы:</b><a href="https://www.google.ru/maps/search/%D1%88%D0%BA%D0%BE%D0%BB%D0%B0+1212/@55.7604064,37.5259243,11z/data=!3m1!4b1">Машала Рыбалко,14</a>.
+        <br />
+        <b>Cайт школы:</b><a href="http://sch1212.mskobr.ru/">http://sch1212.mskobr.ru/</a>.
+        <br />
+         <img weight="120" height="120"  src="school.jpg"/>
+         <br />
+         <i>Расписание</i>
+    <table border="1">
+        <tr>
+            <td></td>
+            <td>Понедельник</td>
+            <td>Вторник</td>
+            <td>Среда</td>
+            <td>Четверг</td>
+             <td>Пятница</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Английский</td>
+            <td>Музыка</td>
+            <td>Немецкий</td>
+            <td>Литература</td>
+             <td>Математика</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Музыка</td>
+            <td>Музыка</td>
+            <td>Музыка</td>
+            <td>Русский</td>
+             <td>Физра</td>
+        </tr>
+         <tr>
+            <td>3</td>
+            <td>Физра</td>
+            <td>Музыка</td>
+            <td>Математика</td>
+            <td>Литература</td>
+             <td>Физра</td>
+        </tr>
+    </table>
+    Имена участников класса:
+    <br />
+    <ul>
+            <li>Карл</li>
+            <li>Саша</li>
+            <li>Паша</li>
+        </ul>
+    </body>
+</html>
